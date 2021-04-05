@@ -34,6 +34,7 @@
 
     <div class="text-center mt-3">
         <a href="/user" class="btn btn-danger">User Management</a>
+        <a href="/item" class="btn btn-warning">Item Management</a>
     </div>
 </div>
 @endsection
